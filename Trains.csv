@@ -1,0 +1,29 @@
+,Paris,Marseille,Lyon,Toulouse,Nice,Nantes,Montpellier,Strasbourg,Bordeaux,Lille,Rennes,Toulon,Clermont-ferrand,Tours
+Paris,X,X,125,X,X,X,X,120,X,60,95,X,X,X
+Marseille,X,X,120,X,X,X,90,X,X,X,X,60,X,X
+Lyon,125,120,X,X,270,X,X,180,X,X,X,X,150,150
+Toulouse,X,X,X,X,X,X,165,X,185,X,X,X,210,X
+Nice,X,X,270,X,X,X,X,X,X,X,X,120,X,X
+Nantes,X,X,X,X,X,X,X,X,175,X,80,X,X,X
+Montpellier,X,90,X,165,X,X,X,X,X,X,X,X,210,X
+Strasbourg,120,X,180,X,X,X,X,X,X,240,X,X,X,X
+Bordeaux,X,X,X,185,X,175,X,X,X,X,X,X,X,X
+Lille,60,X,X,X,X,X,X,240,X,X,245,X,X,X
+Rennes,95,X,X,X,X,80,X,X,X,245,X,X,X,105
+Toulon,X,60,X,X,120,X,X,X,X,X,X,X,X,X
+Clermont-ferrand,X,X,150,210,X,X,210,X,X,X,X,X,X,210
+Tours,X,X,150,X,X,X,X,X,X,X,105,X,210,X
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Rennes - Lyon,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Paris,Marseille,Lyon,Toulouse,Nice,Nantes,Montpellier,Strasbourg,Bordeaux,Lille,Rennes,Toulon,C-F,Tours,ETAPES
+95 - Rennes,,,,,80 - Rennes,,,,245 - Rennes,0,,,105 - Rennes,1
+,,,,,80 - Rennes,,,255 - Nantes,,X,,,,2
+95 - Rennes,,220 -  Paris,,,X,,215 - Paris,,155 - Paris,X,,,,3
+X,,255 - Tours,,,X,,,,,X,,315 - Tours,105 - Rennes,4
+X,,,,,X,,395 - Lille,,155 - Paris,X,,,X,5
+X,,395 - Strasbourg,,,X,,215 - Paris,,X,X,,,X,6
+X,,220 -  Paris,,,X,,X,,X,X,,,X,7
